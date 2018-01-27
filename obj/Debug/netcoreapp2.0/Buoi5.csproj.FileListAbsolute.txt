@@ -1,0 +1,10 @@
+/home/techmaster/Desktop/Buoi5/bin/Debug/netcoreapp2.0/Buoi5.deps.json
+/home/techmaster/Desktop/Buoi5/bin/Debug/netcoreapp2.0/Buoi5.runtimeconfig.json
+/home/techmaster/Desktop/Buoi5/bin/Debug/netcoreapp2.0/Buoi5.runtimeconfig.dev.json
+/home/techmaster/Desktop/Buoi5/bin/Debug/netcoreapp2.0/Buoi5.dll
+/home/techmaster/Desktop/Buoi5/bin/Debug/netcoreapp2.0/Buoi5.pdb
+/home/techmaster/Desktop/Buoi5/obj/Debug/netcoreapp2.0/Buoi5.csproj.CoreCompileInputs.cache
+/home/techmaster/Desktop/Buoi5/obj/Debug/netcoreapp2.0/Buoi5.AssemblyInfoInputs.cache
+/home/techmaster/Desktop/Buoi5/obj/Debug/netcoreapp2.0/Buoi5.AssemblyInfo.cs
+/home/techmaster/Desktop/Buoi5/obj/Debug/netcoreapp2.0/Buoi5.dll
+/home/techmaster/Desktop/Buoi5/obj/Debug/netcoreapp2.0/Buoi5.pdb
